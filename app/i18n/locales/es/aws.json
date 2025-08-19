@@ -1,0 +1,87 @@
+{
+  "aws": {
+    "title": "Amazon Web Services (AWS)",
+    "description": "Amazon Web Services (AWS) es una plataforma de servicios en la nube ofrecida por Amazon que proporciona una amplia gama de servicios de almacenamiento en la nube. AWS te permite escalar, innovar y optimizar tus operaciones tecnológicas de manera más eficiente. Ofrecemos soluciones seguras, flexibles y escalables respaldadas por más de 10 años de experiencia en tecnologías avanzadas y prácticas DevOps.",
+    "implementation": {
+      "title": "¿Cómo implementar AWS en mi negocio?",
+      "description": "Implementar AWS en tu negocio puede ofrecerte una serie de beneficios como escalabilidad, flexibilidad y ahorro de costos."
+    },
+    "services": {
+      "title": "Amazon Web Services",
+      "awsMachineLearning": {
+        "title": "AWS Machine Learning e IA",
+        "description": "Innovamos mediante Machine Learning a escala con la ayuda de los servicios de AWS. Somos expertos certificados en crear, entrenar y desplegar modelos fundacionales y de machine learning."
+      },
+      "awsMigration": {
+        "title": "Migración AWS",
+        "description": "Somos expertos en la transformación cloud mediante AWS, incluyendo una variedad de estrategias (7R) que te ayudarán a trasladar tus aplicaciones y datos a la nube."
+      },
+      "awsDataMigration": {
+        "title": "Migración y transferencia de datos AWS",
+        "description": "Somos especialistas en transferencia y migración de datos a la nube. Brindamos soluciones adecuadas para cualquier caso de uso empresarial y a las necesidades de nuestros clientes."
+      },
+      "awsSecurity": {
+        "title": "AWS Seguridad e Identidad",
+        "description": "Desarrollamos y convertimos la seguridad, identidad y cumplimiento en facilitadores empresariales clave. Con los servicios de seguridad en la nube AWS y nuestros expertos, integramos tecnología con seguridad empresarial."
+      },
+      "awsElasticKubernetes": {
+        "title": "AWS Amazon Elastic Kubernetes",
+        "description": "Diseñamos y creamos aplicaciones modernas con la potencia de Kubernetes, aprovechando todo el desempeño, la escalabilidad, la seguridad y la disponibilidad de la infraestructura de AWS."
+      },
+      "awsDevOps": {
+        "title": "AWS DevOps",
+        "description": "Desarrollamos nuevas soluciones DevOps utilizando AWS. Ayudamos a las organizaciones a lo largo de su recorrido digital utilizando nuestra experiencia e ingeniería en la nube."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios de los Servicios Cloud",
+      "flexibilityScalability": {
+        "title": "Flexibilidad y Escalabilidad",
+        "description": "Ajusta tus recursos de TI según la demanda sin costos elevados."
+      },
+      "costEfficiency": {
+        "title": "Eficiencia en Costos",
+        "description": "Reduce gastos eliminando el mantenimiento de hardware y pagando solo por lo que usa."
+      },
+      "performanceImprovement": {
+        "title": "Mejora del Rendimiento",
+        "description": "Accede a tecnologías avanzadas y alta disponibilidad para optimizar aplicaciones y servicios."
+      },
+      "securityCompliance": {
+        "title": "Seguridad y Conformidad",
+        "description": "Protege tus datos con protocolos de seguridad avanzados y cumplimiento normativo."
+      },
+      "acceleratedInnovation": {
+        "title": "Innovación Acelerada",
+        "description": "Permite que tu equipo se enfoque en innovar al liberarles de limitaciones de infraestructura física."
+      },
+      "digitalEvolution": {
+        "title": "Evolución Digital",
+        "description": "Evoluciona tu estrategia digital de manera segura y escalable con nuestra guía experta."
+      }
+    },
+    "industries": {
+      "title": "Las Industrias con las que trabajamos",
+      "technologySoftware": "Tecnología y software",
+      "finance": "Finanzas",
+      "healthcare": "Salud",
+      "retailEcommerce": "Retail y comercio electrónico",
+      "mediaEntertainment": "Medios y entretenimiento",
+      "education": "Educación",
+      "manufacturing": "Manufactura",
+      "government": "Gobierno",
+      "telecommunications": "Telecomunicaciones",
+      "energyResources": "Energía y recursos naturales",
+      "automotive": "Automotriz"
+    },
+    "header-btn": "Agenda una Consulta",
+    "experts": "Contamos con más de 50 expertos certificados.",
+    "contact": {
+      "title": "Contáctanos",
+      "description": "¿Listo para comenzar tu viaje en la nube? Contáctanos para obtener más información sobre cómo podemos ayudarte a implementar AWS en tu negocio."
+    }
+  }
+}
+
+
+
