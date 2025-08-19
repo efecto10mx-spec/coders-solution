@@ -1,0 +1,82 @@
+{
+  "whatIsSalesforce": {
+    "title": "¿Qué es Salesforce?",
+    "description": "Salesforce es una plataforma en gestión de relaciones con clientes (CRM) y soluciones en la nube, el CRM más utilizado a nivel global. Que ayuda a empresas de todos los tamaños a gestionar sus ventas, marketing y servicio al cliente de manera más eficiente. Dentro de las ventajas de usar Salesforce, está que puedes transformar la forma en que interactúas con tus clientes, optimizando cada punto de contacto para mejorar la satisfacción y aumentar el crecimiento de tu negocio."
+  },
+  "customer360": {
+    "title": "Customer 360",
+    "description": "Implementación Salesforce personalizada. Ofrecemos soluciones personalizadas de Salesforce adaptadas a cada negocio, utilizando herramientas como Marketing Cloud, Sales Cloud y Service Cloud para impulsar la transformación digital."
+  },
+  "salesforceConsulting": {
+    "title": "Consultoría Salesforce",
+    "description": "Consultoría estratégica en Salesforce con más de 10 años de experiencia. Nuestro equipo certificado brinda un servicio personalizado, colaborando estrechamente con los clientes para impulsar su transformación digital."
+  },
+  "ongoingSupport": {
+    "title": "Soporte Salesforce continuo",
+    "description": "Ofrecemos asistencia técnica constante para resolver problemas, mantener tu plataforma operando al máximo rendimiento, y realizar optimizaciones para maximizar el uso de tus licencias Salesforce."
+  },
+  "salesforceSolutions": {
+    "title": "Soluciones Salesforce",
+    "salesCloud": {
+      "title": "Sales Cloud",
+      "description": "Una solución integral para gestionar el ciclo de ventas desde la generación de leads hasta el cierre de negocios. Automatiza y vuelve más eficiente el seguimiento de tu fuerza de ventas."
+    },
+    "serviceCloud": {
+      "title": "Service Cloud",
+      "description": "Diseñado para mejorar el servicio al cliente, ofrece funcionalidades para gestión de casos, automatización del flujo de trabajo y soporte omnicanal. Proporciona una visión completa del cliente y facilita la resolución rápida y eficaz de problemas."
+    },
+    "marketingCloud": {
+      "title": "Marketing Cloud",
+      "description": "Dentro de las funcionalidades de Salesforce para marketing se encuentra la optimización de campañas, segmenta, personaliza y analiza. Además, ofrece experiencias personalizadas a tus clientes en el momento y lugar adecuados."
+    },
+    "mulesoft": {
+      "title": "Mulesoft",
+      "description": "La solución perfecta para diseñar, desarrollar y administrar API’s e integraciones de manera rápida, segura y eficiente."
+    },
+    "salesforcePlatform": {
+      "title": "Salesforce Platform",
+      "description": "La tecnología de Salesforce te permite crear aplicaciones personalizadas, integrar sistemas y automatizar procesos."
+    },
+    "commerceCloud": {
+      "title": "Commerce Cloud",
+      "description": "Lleva tu negocio al siguiente nivel con una tienda online, personaliza la experiencia de compra y optimiza la conversión. Fideliza a tus consumidores y llega a más prospectos."
+    },
+    "financialServicesCloud": {
+      "title": "Financial Services Cloud",
+      "description": "Especializada para el sector financiero, que incluye herramientas y funcionalidades adaptadas a banca, seguros y gestión de inversiones, para satisfacer sus necesidades específicas."
+    },
+    "dataCloud": {
+      "title": "Data Cloud",
+      "description": "Te ayuda a centralizar y unificar los datos de clientes para ofrecer una visión integral y completa. Toma decisiones basadas en datos y obtén una visión clara del rendimiento de tu negocio."
+    },
+    "manufacturingCloud": {
+      "title": "Manufacturing Cloud",
+      "description": "A cloud-based manufacturing platform with AI, designed to meet industry needs, modernizing operations and transforming service experiences by simplifying partner participation."
+    }
+  },
+  "certificates": {
+    "title": "Nuestras certificaciones",
+    "description": "Nuestro equipo está certificado en Salesforce, lo que garantiza que ofrecemos el mejor servicio y soporte a nuestros clientes. Estamos comprometidos con el aprendizaje continuo y con mantenernos al día con las últimas tecnologías de Salesforce."
+  },
+  "industries": {
+    "title": "Las Industrias con las que trabajamos",
+    "automotive": "Automotriz",
+    "telecom": "Telecomunicaciones",
+    "consumerGoods": "Bienes de consumo",
+    "education": "Educación",
+    "energy": "Energía y servicios públicos",
+    "financialServices": "Servicios financieros",
+    "healthcare": "Salud y ciencias biológicas",
+    "manufacturing": "Manufactura",
+    "media": "Medios de comunicación",
+    "nonProfit": "Organizaciones sin fines de lucro",
+    "publicSector": "Sector público"
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "description": "Transformamos tus procesos para alcanzar el máximo rendimiento. Contáctanos para una consulta personalizada y empieza a aprovechar al máximo las capacidades de esta plataforma líder en CRM."
+  },
+  "header-btn": "Agenda una Consulta"
+}
+
+

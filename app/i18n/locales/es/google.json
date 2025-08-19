@@ -1,0 +1,89 @@
+{
+  "googleCloud": {
+    "title": "¿Qué es Google Cloud Platform?",
+    "description": "Google Cloud Platform (GCP) es una suite de servicios de computación en la nube ofrecida por Google. GCP permite a las empresas y desarrolladores construir, desplegar y gestionar aplicaciones y servicios en una infraestructura de nube segura y escalable.",
+    "implementation": {
+      "title": "Implementación de GCP",
+      "description": "GCP ofrece una amplia gama de herramientas y servicios para ayudar a las empresas a migrar a la nube, optimizar sus operaciones e impulsar la innovación. Aprende cómo aprovechar la potente infraestructura de GCP para transformar tu negocio."
+    },
+    "services": {
+      "title": "Servicios de GCP",
+      "gcpComputeEngine": {
+        "title": "Compute Engine",
+        "description": "Máquinas virtuales escalables para ejecutar aplicaciones."
+      },
+      "gcpAppEngine": {
+        "title": "App Engine",
+        "description": "Plataforma como servicio (PaaS) para construir aplicaciones escalables."
+      },
+      "gcpKubernetesEngine": {
+        "title": "Kubernetes Engine",
+        "description": "Kubernetes gestionado para la orquestación de contenedores."
+      },
+      "gcpBigQuery": {
+        "title": "BigQuery",
+        "description": "Almacén de datos sin servidor para el análisis de datos a gran escala."
+      },
+      "gcpCloudStorage": {
+        "title": "Cloud Storage",
+        "description": "Almacenamiento de objetos seguro y escalable para tus datos."
+      },
+      "gcpCloudFunctions": {
+        "title": "Cloud Functions",
+        "description": "Funciones sin servidor activadas por eventos para operaciones backend."
+      }
+    },
+    "benefits": {
+      "title": "Beneficios de GCP",
+      "scalability": {
+        "title": "Escalabilidad automática",
+        "description": "Las aplicaciones se ajustan automáticamente a la demanda sin necesidad de intervención manual."
+      },
+      "costEfficiency": {
+        "title": "Optimización de costos",
+        "description": "Paga solo por lo que usas, con precios basados en el consumo y descuentos por uso prolongado."
+      },
+      "performance": {
+        "title": "Rendimiento consistente",
+        "description": "Disfruta de alta velocidad y disponibilidad gracias a la infraestructura global de Google."
+      },
+      "security": {
+        "title": "Seguridad avanzada",
+        "description": "Protección robusta con cifrado de datos, detección de amenazas y cumplimiento normativo."
+      },
+      "innovation": {
+        "title": "Innovación acelerada",
+        "description": "Accede a tecnologías avanzadas como IA y Machine Learning para desarrollar nuevas funcionalidades rápidamente."
+      },
+      "digitalTransformation": {
+        "title": "Transformación digital",
+        "description": "Acelera la innovación con análisis de datos en tiempo real y soluciones en la nube."
+      }
+    },
+    "certifications": {
+      "title": "Certificaciones de Google Cloud",
+      "description": "Trabaja con más de 50 profesionales certificados en Google Cloud."
+    },
+    "header-btn": "Agenda una Consulta",
+    "industries": {
+      "title": "Las Industrias con las que trabajamos",
+      "education": "Educación",
+      "finance": "Servicios financieros",
+      "manufacturing": "Manufactura",
+      "healthcare": "Salud",
+      "sports": "Deportes",
+      "hospitality": "Hotelería y turismo",
+      "publicSector": "Sector público",
+      "gaming": "Videojuegos",
+      "ecommerce": "E-commerce"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "description": "¿Listo para comenzar tu viaje en la nube? Contáctanos para obtener más información sobre cómo podemos ayudarte a implementar Google Cloud en tu negocio."
+    },
+    "experts": "Nuestro equipo de expertos certificados en Google Cloud está listo para asistirte en tu viaje hacia la nube, desde la consulta inicial hasta la implementación y el soporte continuo."
+  }
+}
+
+
+  

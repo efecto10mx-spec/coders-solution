@@ -1,0 +1,84 @@
+{
+  "whatIsSalesforce": {
+    "title": "What is Salesforce?",
+    "description": "Salesforce is a cloud-based customer relationship management (CRM) platform, recognized as the most widely used CRM globally. It helps businesses of all sizes manage their sales, marketing, and customer service more efficiently. One of the key advantages of using Salesforce is that it can transform how you interact with your customers, optimizing every touchpoint to improve satisfaction and drive business growth."
+  },
+  "customer360": {
+    "title": "Customer 360",
+    "description": "Custom Salesforce Implementation: We offer tailored Salesforce solutions designed specifically for each business, utilizing tools like Marketing Cloud, Sales Cloud, and Service Cloud to drive digital transformation."
+  },
+  "salesforceConsulting": {
+    "title": "Salesforce Consulting",
+    "description": "Strategic Salesforce consulting with over 10 years of experience. Our certified team provides personalized service, working closely with clients to drive their digital transformation."
+  },
+  "ongoingSupport": {
+    "title": "Ongoing Salesforce Support",
+    "description": "We provide continuous technical assistance to resolve issues, maintain optimal platform performance, and maximize the use of your Salesforce licenses."
+  },
+  "salesforceSolutions": {
+    "title": "Salesforce Solutions",
+    "salesCloud": {
+      "title": "Sales Cloud",
+      "description": "A comprehensive solution for managing the sales cycle, from lead generation to closing deals. Automate and streamline your sales force tracking."
+    },
+    "serviceCloud": {
+      "title": "Service Cloud",
+      "description": "Designed to enhance customer service, offering features like case management, workflow automation, and omnichannel support. Provides a complete customer view for quick and effective problem resolution."
+    },
+    "marketingCloud": {
+      "title": "Marketing Cloud",
+      "description": "Optimize campaigns by segmenting, personalizing, and analyzing. Deliver personalized experiences to your customers at the right time and place."
+    },
+    "mulesoft": {
+      "title": "Mulesoft",
+      "description": "The perfect solution for designing, developing, and managing APIs and integrations quickly, securely, and efficiently."
+    },
+    "salesforcePlatform": {
+      "title": "Salesforce Platform",
+      "description": "Salesforce technology allows you to create custom applications, integrate systems, and automate processes."
+    },
+    "commerceCloud": {
+      "title": "Commerce Cloud",
+      "description": "Take your business to the next level with an online store, personalize the shopping experience, and optimize conversion. Build customer loyalty and reach more prospects."
+    },
+    "financialServicesCloud": {
+      "title": "Financial Services Cloud",
+      "description": "Tailored for the financial sector, with tools and functionalities designed for banking, insurance, and investment management to meet specific needs."
+    },
+    "dataCloud": {
+      "title": "Data Cloud",
+      "description": "Helps centralize and unify customer data to offer a complete, integrated view. Make data-driven decisions and gain a clear view of your business performance."
+    },
+    "manufacturingCloud": {
+      "title": "Manufacturing Cloud",
+      "description": "A cloud-based manufacturing platform with AI, designed to meet industry needs, modernizing operations and transforming service experiences by simplifying partner participation."
+    }
+  },
+  "certificates": {
+    "title": "Our Certificates",
+    "description": "Our team is certified in Salesforce, ensuring that we provide the best service and support to our clients. We are committed to continuous learning and staying up-to-date with the latest Salesforce technologies."
+  },
+  "header-btn": "Book a Consultation",
+  "industries": {
+    "title": "Industries we work with",
+    "automotive": "Automotive",
+    "telecom": "Telecommunications",
+    "consumerGoods": "Consumer Goods",
+    "education": "Education",
+    "energy": "Energy and Utilities",
+    "financialServices": "Financial Services",
+    "healthcare": "Healthcare and Life Sciences",
+    "manufacturing": "Manufacturing",
+    "media": "Media",
+    "nonProfit": "Non-Profit Organizations",
+    "publicSector": "Public Sector"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We transform your processes to achieve maximum performance. Contact us for a personalized consultation and start leveraging the full capabilities of this leading CRM platform."
+  }
+}
+
+
+
+
